@@ -1,2 +1,2 @@
 # Rock-Paper-Stone
-Python Game
+Python Classic Game
