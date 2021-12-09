@@ -1,2 +1,2 @@
-# Rock-Paper-Stone
+# Rock-Paper-Scissors
 Python Classic Game
