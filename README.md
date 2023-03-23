@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Python Classic Game
+Java Classic Game
